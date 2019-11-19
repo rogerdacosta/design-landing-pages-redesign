@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,6 +49,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "51A612A0-6670-40E2-AA80-CCBD715CEAFD"
+    }
   ],
   "maintainScrollPosition": false,
   "name": "iPhone 8",
